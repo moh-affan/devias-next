@@ -54,7 +54,7 @@
         "react-perfect-scrollbar": "^1.5.3",
         "recompose": "^0.30.0",
         "style-loader": "^1.0.0",
-        "underscore": "^1.9.1",
+        "underscore": "^1.12.1",
         "url-loader": "^2.1.0",
         "uuid": "^3.3.2",
         "validate.js": "^0.13.1"
